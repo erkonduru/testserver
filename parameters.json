@@ -6,10 +6,10 @@
             "value": "testserver"
         },
         "disks_testserver_disk1_5d6cf617383b4e7c97a4be701998efa9_externalid": {
-            "value": null
+            "value": "eswar"
         },
         "networkInterfaces_testserver512_externalid": {
-            "value": null
+            "value": "eswar"
         }
     }
 }
