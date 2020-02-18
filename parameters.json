@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualMachines_testserver_name": {
-            "value": null
+            "value": testserver
         },
         "disks_testserver_disk1_5d6cf617383b4e7c97a4be701998efa9_externalid": {
             "value": null
