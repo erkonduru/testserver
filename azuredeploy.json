@@ -11,6 +11,7 @@
         },
         "adminUsername": {
             "type": "string",
+            "defaultValue": "eswar",
             "metadata": {
                 "description": "Username for the Virtual Machine."
             }
@@ -28,6 +29,7 @@
         },
         "adminPasswordOrKey": {
             "type": "securestring",
+            "defaultValue": "Indes@123",
             "metadata": {
                 "description": "SSH Key or password for the Virtual Machine. SSH key is recommended."
             }
