@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualMachines_testserver_name": {
-            "value": null
+            "value": "eswar"
         },
         "disks_testserver_disk1_5d6cf617383b4e7c97a4be701998efa9_externalid": {
-            "value": null
+            "value": "/subscriptions/15270012-a4ec-4434-925c-2d6ce0e83c2b/resourceGroups/AZUREDEVOPS/providers/Microsoft.Compute/disks/testserver_disk1_5d6cf617383b4e7c97a4be701998efa9"
         },
         "networkInterfaces_testserver512_externalid": {
-            "value": null
+            "value": "/subscriptions/15270012-a4ec-4434-925c-2d6ce0e83c2b/resourceGroups/AzureDevops/providers/Microsoft.Network/networkInterfaces/testserver512"
         }
     }
 }
